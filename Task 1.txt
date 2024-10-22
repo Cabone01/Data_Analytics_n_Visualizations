@@ -1,0 +1,43 @@
+You are working as a Data Analyst at Accenture.
+You work within a larger team, where each member has a different role and 
+level of responsibility.
+Your team has been assigned a new project for a client called Social Buzz.
+You’re hoping for a promotion at work, and this is an exciting opportunity 
+for you to showcase your data analysis and visualization skills.
+
+
+
+A data analyst sits between the business and the data.
+
+What do we mean by that?
+
+The Business refers to the client and your internal team members who won’t be 
+involved in detailed data analysis.
+They rely on your analysis to make strategic business decisions.
+Importantly, not everyone will have a strong understanding of data. Your job 
+is to communicate your data findings simply and clearly for everyone to understand.
+ 
+The Data refers to the relevant data sources that you will clean, process, and use 
+to generate interesting insights for the business.
+
+
+
+Big Data refers to large, diverse sets of information that 
+grow at ever-increasing rates. It includes the volume of information, 
+the velocity or speed at which it is created and collected, and the variety or scope 
+of the data points being covered (known as the "three v's" of big data)
+
+An IPO stands for Initial Public Offering - 
+this happens when a private company becomes public by selling its shares on a 
+stock exchange.
+
+
+
+Industry experts in the social media space to ensure we accurately understand 
+Social Buzz’s sector.
+IPO experts who will deliver on the IPO requirement
+Data experts who will provide Big Data insights and content category analysis. 
+This is where you sit!
+
+
+
