@@ -4,7 +4,8 @@ Social Buzz has scaled drastically faster than anticipated reaching over 500 mil
 - An audit of their big data practice
 - Recommendations for successful IPO
 - An analysis of their content categories that highlights the top 5 categories with the largest aggregate popularity.    
-As the data analyst, two (imaginary) others and I are tasked with the last objective.
+As the data analyst, two (imaginary) others and I are tasked with the last objective.    
+
 **Tools**
 - Microsoft Excel
 - Python
